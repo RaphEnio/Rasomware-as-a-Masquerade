@@ -6,9 +6,9 @@ This repository aims to collect reports on malware that was masqueraded as ranso
 | **Masqueraded Malware** | **Malware Name/Description** | **Scheme** | **Date of reported activity** | **Source** |
 |---|---|---|---|---|
 | Wiper | KillDisk | Wiper with ransomware capabilities. Missing way for decryption. | 2016 | [WeLiveSecurity](https://www.welivesecurity.com/2017/01/05/killdisk-now-targeting-linux-demands-250k-ransom-cant-decrypt/) |
-| Wiper | KillDisk | Wipe files but leaves ransom note | 2016-1028 | [BleepingComputer](https://www.bleepingcomputer.com/news/security/killdisk-fake-ransomware-hits-financial-firms-in-latin-america/) |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Wiper | KillDisk | Wipe files but leaves ransom note | 2016-2018 | [BleepingComputer](https://www.bleepingcomputer.com/news/security/killdisk-fake-ransomware-hits-financial-firms-in-latin-america/) |
+| Wiper | NotPetya (worm), related to Petya ransomware | Wiper with ransomware capabilities Missing way for decryption. | 2016-2017 | 9 |
+| Wiper |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
