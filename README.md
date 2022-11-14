@@ -25,3 +25,6 @@ This repository aims to collect reports on malware that was masqueraded as ranso
 | Wiper | Azov|  | November 2022 | [BleepingComputer](https://www.bleepingcomputer.com/news/security/azov-ransomware-is-a-wiper-destroying-data-666-bytes-at-a-time/) |
 |  |  |  |  |  |
 
+----------------------
+Let me know if you have any suggestions on changes or/and additions!
+
