@@ -1,5 +1,6 @@
 # 'Rasomware as a Masquerade (RaaM)'
 This repository aims to collect reports on malware that was masqueraded as ransomware. For example, a malware that drops a ransom note even though it does not encrypt data, but destroys it. 
+The following table is based on research contributing to my master's thesis. The full thesis is available to download [here](http://essay.utwente.nl/93500/).
 
 Let me know if you have any suggestions on changes or/and additions!
 
@@ -24,9 +25,9 @@ Let me know if you have any suggestions on changes or/and additions!
 | Wiper | Trojan.Killdisk (HermeticWiper) | Wiper that leaves ransom note. Similarities to so-called ’WhisperGate’ attack (see above) | February 2022 | [Symantec](http://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia) |
 | Ransomware | Onyx (Chaos variant, see above) | Ransomware that destroys data (even with leak page). | April 2022 (reported version) | [BleepingComputer](https://www.bleepingcomputer.com/news/security/beware-onyx-ransomware-destroys-files-instead-of-encrypting-them/) |
 | Wiper | Malware equipped to delete all system drives. (This functionality was not working properly in the investigated binary) | Malware renames all files, drops ransom note and deletes drives, but no way to recover files. | October 2022 | [BleepingComputer](https://www.bleepingcomputer.com/news/security/fake-adult-sites-push-data-wipers-disguised-as-ransomware/) |
-| Wiper | Azov|  | November 2022 | [BleepingComputer](https://www.bleepingcomputer.com/news/security/azov-ransomware-is-a-wiper-destroying-data-666-bytes-at-a-time/) |
+| Wiper | Azov| Malware that overwrites a files content with fixed size of bytes, currupting it. The dropped ransom note gives no contact details but twitter handles of journalists and security researchers, who are not involved in anyway with the creation or distribution of this malware.| November 2022 | [BleepingComputer](https://www.bleepingcomputer.com/news/security/azov-ransomware-is-a-wiper-destroying-data-666-bytes-at-a-time/) |
 |  |  |  |  |  |
 
-This table is based on my research published [here](http://essay.utwente.nl/93500/).
+
 
 
