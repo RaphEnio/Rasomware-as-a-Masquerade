@@ -27,5 +27,6 @@ Let me know if you have any suggestions on changes or/and additions!
 | Wiper | Azov|  | November 2022 | [BleepingComputer](https://www.bleepingcomputer.com/news/security/azov-ransomware-is-a-wiper-destroying-data-666-bytes-at-a-time/) |
 |  |  |  |  |  |
 
+This table is based on my research published [here](http://essay.utwente.nl/93500/).
 
 
