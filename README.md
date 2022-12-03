@@ -26,7 +26,7 @@ Let me know if you have any suggestions on changes or/and additions!
 | Ransomware | Onyx (Chaos variant, see above) | Ransomware that destroys data (even with leak page). | April 2022 (reported version) | [BleepingComputer](https://www.bleepingcomputer.com/news/security/beware-onyx-ransomware-destroys-files-instead-of-encrypting-them/) |
 | Wiper | Malware equipped to delete all system drives. (This functionality was not working properly in the investigated binary) | Malware renames all files, drops ransom note and deletes drives, but no way to recover files. | October 2022 | [BleepingComputer](https://www.bleepingcomputer.com/news/security/fake-adult-sites-push-data-wipers-disguised-as-ransomware/) |
 | Wiper | Azov Wiper| Malware that overwrites a files content with fixed size of bytes, currupting it. The dropped ransom note gives no contact details but twitter handles of journalists and security researchers, who are not involved in anyway with the creation or distribution of this malware.| November 2022 | [BleepingComputer](https://www.bleepingcomputer.com/news/security/azov-ransomware-is-a-wiper-destroying-data-666-bytes-at-a-time/) |
-|  |  |  |  |  |
+| Wiper | CryWiper | Malware that modifies files and drops ransom note. However, the modified files cannot be restored | December 2022 | [Kaspersky](https://www.kaspersky.com/blog/crywiper-pseudo-ransomware/46480/) |
 
 
 
